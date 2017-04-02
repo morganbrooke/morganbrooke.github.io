@@ -3,7 +3,7 @@
 	font-weight: 300;
 }
 a.active{
-	background-color: grey !important;
+	background-color: #424242 grey darken-3 !important;
 }
 h2{
 	text-align: center;

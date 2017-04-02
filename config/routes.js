@@ -5,8 +5,8 @@ module.exports = function(app){
 		console.log('Im in server request controller');
 		requests.show(req,res)
 	})
-	app.post('/add', function(req,res){
-		console.log('add routes');
-		requests.add(req,res);
-	})
+	// app.post('/add', function(req,res){
+	// 	console.log('add routes');
+	// 	requests.add(req,res);
+	// })
 };

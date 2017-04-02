@@ -13,14 +13,14 @@ wedding_app.config(function($routeProvider) {
   	templateUrl: 'partials/accomidations.html'
   })
   .when('/request', {
-  	templateUrl: 'partials/request.html',
-    controller: 'requestsController',
-    controllerAs: 'rc'
+  	templateUrl: 'partials/request.html'
+    // controller: 'requestsController',
+    // controllerAs: 'rc'
   })
   .when('/', {
-  	templateUrl: 'partials/login.html',
-  	controller: 'loginController',
-    controllerAs: 'lc'
+  	templateUrl: 'partials/login.html'
+  	// controller: 'loginController',
+   //  controllerAs: 'lc'
   })
   // .when({
   //   redirectTo: '/'

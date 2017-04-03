@@ -1,3 +1,15 @@
+@font-face {font-family: "Anter";
+    src: url("//db.onlinewebfonts.com/t/c485bd943deb738cde7beb2a970fefa8.eot");
+    src: url("//db.onlinewebfonts.com/t/c485bd943deb738cde7beb2a970fefa8.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/c485bd943deb738cde7beb2a970fefa8.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/c485bd943deb738cde7beb2a970fefa8.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/c485bd943deb738cde7beb2a970fefa8.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/c485bd943deb738cde7beb2a970fefa8.svg#Anter") format("svg");
+}
+
+div {
+    font-family: Anter;
+}
 *{
 	font-family: "Copperplate", Copperplate Gothic Light, serif;
 	font-weight: 300;
@@ -17,6 +29,14 @@ label{
 	text-align: center;
 	color: white;
 	text-shadow: 3px 3px 3px #000;
+}
+#mojo{
+	background: url('../images/Snoqualmie.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 75vh;
 }
 #forest{
 	background: url('../images/forest.jpg') no-repeat center center fixed;

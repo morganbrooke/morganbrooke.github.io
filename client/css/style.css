@@ -15,7 +15,6 @@
     url("//db.onlinewebfonts.com/t/116d187134420de5733c7c45bbc80c46.svg#LuloCleanW01-One") format("svg");
 }
 *{
-	font-weight: 300;
 	font-family: LuloClean;
 }
 a.active{
@@ -35,14 +34,6 @@ label{
 	text-align: center;
 	color: white;
 	text-shadow: 3px 3px 3px #000;
-}
-#mojo{
-	background: url('../images/images/insta-husband_facebook_optimized_size.jpg') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	height: 75vh;
 }
 #forest{
 	background: url('../images/forest.jpg') no-repeat center center fixed;

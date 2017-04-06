@@ -41,7 +41,7 @@ label{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 40vh;
+	height: 80vh;
 }
 #forest{
 	background: url('../images/forest.jpg') no-repeat center center fixed;

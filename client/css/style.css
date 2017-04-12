@@ -99,9 +99,6 @@ body {
 main {
     flex: 1 0 auto;
 }
-#logout{
-	color: black;
-}
 #footer_text{
 	margin: 0;
 }
@@ -121,4 +118,7 @@ th{
 }
 #card-pic{
 	height: 40vh;
+}
+nav{
+	background-color: black !important;
 }

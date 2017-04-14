@@ -45,7 +45,7 @@ label{
 	width: 100vw;
 }
 #forest{
-	background: url('../images/forest.jpg') no-repeat center center fixed;
+	background: url('../images/hug.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -71,14 +71,6 @@ h4{
 	margin: 0; 
 	padding: 0;
 }
-/*#login_page{
-	background: url('../images/seattle.jpg') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	height: 100vh;
-}*/
 #pike{
 	color: white;
 	vertical-align: top;

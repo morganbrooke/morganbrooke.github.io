@@ -51,17 +51,19 @@ label{
 	-o-background-size: cover;
 	background-size: cover;
 	height: 40vh;
+	width: 100vw;
 }
 h4{
 	color: white;
 }
 #venue{
-	background: url('../images/Snoqualmie.jpg') no-repeat center center fixed;
+	background: url('../images/RobinswoodHouse.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	height: 75vh;
+	width: 100vw;
 }
 #left{
 	height: 50vh;

@@ -112,8 +112,8 @@ th{
 #card-pic{
 	height: 40vh;
 }
-#hotel{
-	color: white; 
+a{
+	color: white !important; 
 }
 nav{
 	background-color: black !important;

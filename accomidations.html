@@ -3,6 +3,13 @@
 <link rel ="stylesheet" type= "text/css" href="client/css/style.css">
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>
+  $(document).ready(function(){
+    $(".button-collapse").sideNav();
+    $('ul.tabs').tabs();
+  });
+  $('.carousel.carousel-slider').carousel({fullWidth: true});
+</script>
 
 <!-- Materialise CDN -->
 <script src='client/static/materialize/js/materialize.min.js'></script>
@@ -21,13 +28,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 </head>
 <body>
-<script>
-  $(document).ready(function(){
-    $(".button-collapse").sideNav();
-    $('ul.tabs').tabs();
-  });
-  $('.carousel.carousel-slider').carousel({fullWidth: true});
-</script>
   <nav>
     <div class="nav-wrapper">
       <a href="/" class="brand-logo">Mojo Wedding 2017</a>

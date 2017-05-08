@@ -109,6 +109,9 @@ th{
 .aco{
 	height: 100vh;
 }
+.tabs{
+	color: black;
+}
 #card-pic{
 	height: 40vh;
 }

@@ -132,3 +132,6 @@ body {
 main {
 	flex: 1 0 auto;
 }
+#main .carousel{
+height: 100vh;
+}

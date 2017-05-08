@@ -112,6 +112,9 @@ th{
 #card-pic{
 	height: 40vh;
 }
+#id{
+	color: white; 
+}
 nav{
 	background-color: black !important;
 }

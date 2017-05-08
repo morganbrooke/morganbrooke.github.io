@@ -35,6 +35,7 @@ label{
 	text-shadow: 3px 3px 3px #000;
 }
 #mojo{
+	background: url('../images/insta-husband_facebook_optimized_size.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

@@ -132,6 +132,9 @@ body {
 main {
 	flex: 1 0 auto;
 }
-#main .carousel{
+.carousel{
 height: 100vh;
+}
+.carousel .carousel-item img{
+	width: 40vw;
 }

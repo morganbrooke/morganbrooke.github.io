@@ -20,9 +20,6 @@
 a.active{
 	background-color: #424242 grey darken-3 !important;
 }
-a{
-	color: black;
-}
 h2{
 	text-align: center;
 }
@@ -138,4 +135,5 @@ main {
 }
 .carousel .carousel-item img{
 	width: 40vw !important;
+	height: 100vh;
 }

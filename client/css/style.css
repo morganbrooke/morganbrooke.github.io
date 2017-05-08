@@ -29,6 +29,16 @@ h3{
 	text-shadow: 3px 3px 3px #000;
 	font-family: Anter !important;
 }
+h4{
+	color: white;
+	text-align: center;
+	text-shadow: 3px 3px 3px #000;
+}
+#deets{
+	text-align: center;
+	color: white;
+	text-shadow: 3px 3px 3px #000;
+}
 label{
 	text-align: center;
 	color: white;
@@ -51,9 +61,6 @@ label{
 	background-size: cover;
 	height: 60vh;
 	width: 100vw;
-}
-h4{
-	color: white;
 }
 #venue{
 	background: url('../images/RobinswoodHouse.jpg') no-repeat center center fixed;

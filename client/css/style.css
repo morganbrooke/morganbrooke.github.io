@@ -151,8 +151,7 @@ main {
 	perspective: 1000px;
 }
 .carousel .carousel-item img{
-	width: 40vw !important;
-	height: 100vh;
+	width: 225% !important;
 }
 .tab{
 	color: black;

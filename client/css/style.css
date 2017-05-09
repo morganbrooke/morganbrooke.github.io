@@ -72,7 +72,7 @@ label{
 	width: 100vw;
 }
 #mojo{
-	background: url('../images/beach_kiss_facebook_optimized_size.jpg') no-repeat fixed;
+	background: url('../images/beach_kiss_facebook_optimized_size.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -148,6 +148,7 @@ main {
 .carousel{
 	height: 100vh !important;
 	width: 100vw !important;
+	perspective: 1000px;
 }
 .carousel .carousel-item img{
 	width: 40vw !important;

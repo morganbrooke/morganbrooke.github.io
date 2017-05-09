@@ -116,8 +116,8 @@ th{
 .aco{
 	height: 100vh;
 }
-.tabs{
-	color: black;
+.collection .collection-item a{
+	color: black !important;
 }
 #card-pic{
 	height: 40vh;

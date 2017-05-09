@@ -54,12 +54,12 @@ label{
 	width: 100vw;
 }
 #forest{
-	background: url('../images/jorgan-492_facebook_optimized.jpg') no-repeat center center fixed;
+	background: url('../images/jorgan-492_facebook_optimized.jpg') no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 60vh;
+	height: 75vh;
 	width: 100vw;
 }
 #venue{

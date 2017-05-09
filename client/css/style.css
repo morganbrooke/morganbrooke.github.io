@@ -71,6 +71,15 @@ label{
 	height: 75vh;
 	width: 100vw;
 }
+#mojo{
+	background: url('../images/beach_kiss_facebook_optimized_size.jpg') no-repeat fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 85vh;
+	width: 100vw;
+}
 #left{
 	height: 50vh;
 }

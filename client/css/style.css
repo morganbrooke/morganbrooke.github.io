@@ -80,9 +80,10 @@ label{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 85%;
-	width: 100%;
-	max-width: 100%
+	height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
 }
 #left{
 	height: 50vh;

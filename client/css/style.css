@@ -86,7 +86,7 @@ label{
 }
 #kiss @media only screen and (min-device-width: 400px) {
     body {
-    	background-image: url('../images/beach_kiss_facebook_optimized_size.jpg'); 
+    	background: url('../images/beach_kiss_facebook_optimized_size.jpg'); 
     }
 }
 #left{

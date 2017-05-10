@@ -54,13 +54,8 @@ label{
 	width: 100vw;
 }
 #forest{
-	background: url('../images/hug.jpg') no-repeat fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	height: 75vh;
-	width: 100vw;
+	max-width: 100%; 
+	height: auto;
 }
 #venue{
 	background: url('../images/RobinswoodHouse.jpg') no-repeat center center fixed;

@@ -84,11 +84,6 @@ label{
 	width: 100%;
 	max-width: 100%
 }
-#kiss @media only screen and (min-device-width: 400px) {
-    body {
-    	background: url('../images/beach_kiss_facebook_optimized_size.jpg'); 
-    }
-}
 #left{
 	height: 50vh;
 }

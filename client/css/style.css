@@ -34,6 +34,9 @@ h4{
 	text-align: center;
 	text-shadow: 3px 3px 3px #000;
 }
+nav .brand-logo{
+	padding-right: 10%;
+}
 #deets{
 	text-align: center;
 	color: white;
@@ -50,8 +53,8 @@ label{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 85vh;
-	width: 100vw;
+	height: 85%;
+	width: 100%;
 	max-width: 100%
 }
 #forest{
@@ -60,8 +63,8 @@ label{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 75vh;
-	width: 100vw;
+	height: 75%;
+	width: 100%;
 	max-width: 100%
 }
 #venue{
@@ -76,10 +79,13 @@ label{
 }
 #kiss{
 	background: url('../images/beach_kiss_facebook_optimized_size.jpg') no-repeat center center fixed;
-	height: auto; 
-    width: auto; 
-    max-width: 300px; 
-    max-height: 300px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 85%;
+	width: 100%;
+	max-width: 100%
 }
 #left{
 	height: 50vh;

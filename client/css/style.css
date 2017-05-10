@@ -54,6 +54,7 @@ label{
 	width: 100vw;
 }
 #forest{
+	background: url('../images/hug.jpg');
 	max-width: 100%; 
 	height: auto;
 }

@@ -76,10 +76,6 @@ label{
 }
 #kiss{
 	background: url('../images/beach_kiss_facebook_optimized_size.jpg') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
 	height: auto; 
     width: auto; 
     max-width: 300px; 

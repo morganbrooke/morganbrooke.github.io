@@ -70,8 +70,8 @@ label{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 75vh;
-	width: 100vw;
+	height: 75%;
+	width: 100%;
 	max-width: 100%
 }
 #kiss{
@@ -80,8 +80,8 @@ label{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 85vh;
-	width: 100vw;
+	height: 85%;
+	width: 100%;
 	max-width: 100%
 }
 #left{
